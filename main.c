@@ -9,7 +9,7 @@ static void print_matrix(Matrix A) {
         printf("\n");
     }
 }
-// Header file for 3x3 matrix operations
+
 int main(void) {
     Matrix A  = {{1,2,3},{4,5,6},{7,8,10}};
     Matrix B  = {{1,0,0},{0,1,0},{0,0,1}};
